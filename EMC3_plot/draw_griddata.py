@@ -42,5 +42,5 @@ ax0.set_ylim(-150.0, 120.0)
 
 plt.show()
 
-figure_file_name = "fig.png"
-fig.savefig(figure_file_name, dpi = 300)
+figure_file_name = "fig_griddata.png"
+fig.savefig(figure_file_name, dpi = 100)
